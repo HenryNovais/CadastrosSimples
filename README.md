@@ -6,7 +6,7 @@ Sistema de cadastro de pessoas via terminal, feito em Python.
 
 ## 💡 Sobre o projeto
 
-O **CadastroSimples** é um programa feito em Python com interface de texto no terminal, onde é possível:
+O **CadastroSimples** é um programa feito em Python com interface de texto(com cores) no terminal, onde é possível:
 
 - 📄 Ver a lista de pessoas cadastradas (sem perder os dados anteriores)
 - ➕ Cadastrar novas pessoas com nome e idade
