@@ -28,4 +28,3 @@ Os dados são armazenados em um arquivo de texto (`cadastros.txt`) e exibidos em
 ## 🚀 Clone o repositório
    ```bash
    git clone https://github.com/seu-usuario/CadastroSimples.git
-   cd CadastroSimples
